@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "PlanHub Desktop",
+  "version": "0.1",
+  "minimum_chrome_version": "23",
+  "version_name": "0.1 Beta."
+
+  "icons": {
+    "128": "icon128.png"
+  },
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }
+}
