@@ -1,6 +1,6 @@
 {
-  "sample": "hello-world",
+  "sample": "PlanHub",
   "files_with_snippets": [ ],
-  "android": {"works": true},
-  "ios": {"works": true}
+  "android": {"works": false},
+  "ios": {"works": false}
 }
